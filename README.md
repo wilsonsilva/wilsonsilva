@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a learning platform and programming language for Portuguese speakers
+- 🔭 I’m currently working on a [Nostr Ruby Client and Relay](https://github.com/wilsonsilva/nostr)
 - 🌱 I’m currently learning Dart, Flutter, Go, Haskell, blockchains, cryptocurrencies, taxes, geoarbitrage, IoT, radio protocols
 - 👯 I’m looking to collaborate on any of my public repositories
 - 🤔 I’m looking for help with branding my limited company
