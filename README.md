@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [Nostr Ruby Client and Relay](https://github.com/wilsonsilva/nostr) and [Raylib for Ruby](https://raylib-ruby.com)
+- 🔭 I’m currently working on a [Nostr for Ruby](https://nostr-ruby.com) and [Raylib for Ruby](https://raylib-ruby.com)
 - 🌱 I’m currently learning Flutter and Go
 - 👯 I’m looking to collaborate on any of my public repositories
 - 🤔 I’m looking for help with branding my limited company
